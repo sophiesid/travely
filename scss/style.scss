@@ -346,6 +346,15 @@ h1, h2,h3,h4,h5,h6{
 		background: url(../img/bcg3.jpg) 50% no-repeat;
 		background-size: cover;
 		color: #FFF;
+		&--second{
+			background: url(../img/bg_1.jpg) 50% no-repeat;
+			background-size:cover;
+		}
+		&--third{
+			background: url(../img/bg4.jpg) 50% no-repeat;
+			background-size:cover;
+		}
+
 	}
 	&__content{
 		padding: 195px 0 222px;

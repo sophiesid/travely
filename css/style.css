@@ -892,6 +892,12 @@ select {
     background: url(../img/bcg3.jpg) 50% no-repeat;
     background-size: cover;
     color: #FFF; }
+    .ba-safari__slide--second {
+      background: url(../img/bg_1.jpg) 50% no-repeat;
+      background-size: cover; }
+    .ba-safari__slide--third {
+      background: url(../img/bg4.jpg) 50% no-repeat;
+      background-size: cover; }
   .ba-safari__content {
     padding: 195px 0 222px; }
   .ba-safari__top {
